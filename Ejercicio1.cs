@@ -9,8 +9,10 @@ namespace Operadores
 {
     internal class Ejercicio1
     {
-        static public void Run(int number) 
+        static public void Run() 
         {
+            int number = Convert.ToInt32(Console.ReadLine());
+
             Console.WriteLine();
             Console.WriteLine($"Numero ingresado: {number}");
 

@@ -1,0 +1,39 @@
+﻿Pseudo Codigo:
+
+Ej1:
+
+1-- pido numero y lo convierto en entero
+2-- aumento en uno su valor y lo guardo en una variable
+3-- disminuyo en 1 su valor y lo guardo en una variable
+4-- imprimo por consola ambos valores
+5-- fin del programa
+
+Ej2
+
+1-- instancio un objeto cuadrado
+2-- el usuaurio ingresa el valor del lado del cuadrado y lo convierto en entero
+3-- calculo el area al multiplicar lado x lado
+
+Ej3 
+
+1-- instnacio un objecto Producto
+2-- el usuario ingresa el valor de cada una de sus propiedades
+3-- calculo el precio de venta dependiendo sus valores
+4-- imprimo por consola el resultado
+5-- fin del programa
+
+Ej4
+
+1-- crea una isntancia de Alumno
+2-- el usuario ingresa las 3 notas del mismo y lo convierto en entero
+3-- obtengo el promedio usnado las 3 notas  
+4-- imprimo por el resultado por consola
+5-- fin del programa
+
+Ej5 
+
+1-- crea una instancia del Producto
+2-- el usuario ingresa el valor de sus propiedades costo y venta
+3-- uso las variables anteriores para determinar el beneficio (precio - costo)
+4-- imprimo por cosola el resultado
+5-- fin del programa

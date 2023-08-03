@@ -13,7 +13,7 @@ namespace Operadores
         {
             Producto producto = new Producto();
 
-            Console.WriteLine("Ingrese el cosrto del producto");
+            Console.WriteLine("Ingrese el costo del producto");
             producto.Costo = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Ingrese el valor de venta del producto");
